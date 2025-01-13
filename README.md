@@ -26,95 +26,97 @@ __Félkövér másként__
 
 _Dőlt másként_
 
-Áthúzott
+~Áthúzott~
 
 
-Blokkok
+## Blokkok
 
 
-Első idézet...
-Bágyazott blokk
-További beágyazott blokk
+<Első idézet...
+<<Bágyazott blokk
+<<<További beágyazott blokk
 
 
-Listák
+## Listák
 
 Felsorolás
 
-Hozzon létre egy listát úgy, hogy egy sort kezd ezzel +, -, vagy *
-A részlisták 2 szóköz behúzásával készülnek:
-A felsorolásjel karakterének megváltoztatása új lista indítását jelenti:
-Alma
-Piros alma
-Narancs
-További elem
+- Hozzon létre egy listát úgy, hogy egy sort kezd ezzel +, -, vagy *
+- A részlisták 2 szóköz behúzásával készülnek:
+    - A felsorolásjel karakterének megváltoztatása új lista indítását jelenti:
+        - Alma
+            - Piros alma
+        - Narancs 
+- További elem
 
-Számozás
+### Számozás
 
-Hétfő
-Kedd
-Szerda
+1. Hétfő
+2. Kedd
+3. Szerda
 
 
 
 Számozás indítása más kezdettel:
 
-Vasárnap
-Hétfő
+100. Vasárnap
+101. Hétfő
 
 
-Kód
+## Kód
 
 Soron belül code
 
 Behúzott kód
 
-Néhány megjegyzés
+```
+//Néhány megjegyzés
 Gyakorlás
 Gyakorlás
 Gyakorlás
+```
+
+### Blokk kód
 
 
-Blokk kód
+    Egyszerű szöveg...
 
 
-Egyszerű szöveg...
+### Szintaxis kiemelés
 
-
-Szintaxis kiemelés
-
-
+```python
 for i in range(10):
     print("Hello")
 print("Vége")
+```
 
+# Táblázat
 
-Táblázat
-
-Gyümölcs Mennyiség
-
-alma 10 kg
-körte 20 kg
-banán 30 kg
+|Gyümölcs | Mennyiség|
+|---------|----------|
+|alma | 10 kg|
+|körte| 20 kg|
+|banán | 30 kg|
 
 Jobbra igazított táblázat
 
-Gyümölcs Mennyiség
-alma 10 kg
-körte 20 kg
-banán 30 kg
+|Gyümölcs | Mennyiség|
+|--------:|----------:|
+|alma | 10 kg|
+|körte| 20 kg|
+|banán | 30 kg|
 
 
-Linkek
+# Linkek
 
-Aqua http://aqua.hu
+- [Aqua](http://aqua.hu)
 
-Media Markt http://mediamarkt.hu/ MediaMarkt Magyarország
+- [Media Markt](http://mediamarkt.hu/ "MediaMarkt Magyarország")
 
-Automatikus link https://arpadszki.hu
+- [Automatikus link](https://arpadszki.hu)
 
 
-Képek
+# Képek
 
 Minion https://octodex.github.com/images/minion.png
 Stormtroopocat  https://octodex.github.com/images/stormtroopocat.jpg The Stormtroopocat
