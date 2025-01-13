@@ -1,7 +1,7 @@
 12/h
 **Hirdetés**
 
-__[jófogás](https://jofogas.hu/)__ - Magyarország legnagyobb online apróhirdetési oldala.
+- __[jófogás](https://jofogas.hu/)__ - Magyarország legnagyobb online apróhirdetési oldala.
 - __[HardverApró](https://harverapro.hu/)__ - Itt megtalálod, amit keresel!
 
 
@@ -113,26 +113,29 @@ Jobbra igazított táblázat
 
 - [Media Markt](http://mediamarkt.hu/ "MediaMarkt Magyarország")
 
-- [Automatikus link](https://arpadszki.hu)
+- Automatikus link https://arpadszki.hu
 
 
 # Képek
 
-Minion https://octodex.github.com/images/minion.png
-Stormtroopocat  https://octodex.github.com/images/stormtroopocat.jpg The Stormtroopocat
+![Minion](https://octodex.github.com/images/minion.png)
+![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
 
 
-Emoji https://github.com/markdown-it/markdown-it-emoji
+### [Emoji](https://github.com/markdown-it/markdown-it-emoji)
 
-Jelek:
+Jelek::bowtie:
+:smile:
+:laughing:
+:blush:
 
 
-Lábjegyzet https://github.com/markdown-it/markdown-it-footnote
+### [Lábjegyzet](https://github.com/markdown-it/markdown-it-footnote)
 Forgalomirányító protokollok:  
-RIP
-OSPF
+-  RIP[^1]
+- OSPF[^2]
+----------
+[^1]: Routing Information Protocol
 
-Routing Information Protocol
-
-Open Shortest Path First
+[^2] Open Shortest Path First
 
