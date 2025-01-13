@@ -137,5 +137,5 @@ Forgalomirányító protokollok:
 ----------
 [^1]: Routing Information Protocol
 
-[^2] Open Shortest Path First
+[^2]: Open Shortest Path First
 
