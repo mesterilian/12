@@ -124,10 +124,7 @@ Jobbra igazított táblázat
 
 ### [Emoji](https://github.com/markdown-it/markdown-it-emoji)
 
-Jelek::bowtie:
-:smile:
-:laughing:
-:blush:
+Jelek: :bowtie: :smile: :laughing: :blush:
 
 
 ### [Lábjegyzet](https://github.com/markdown-it/markdown-it-footnote)
